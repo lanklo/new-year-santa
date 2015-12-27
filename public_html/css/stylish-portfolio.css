@@ -237,3 +237,19 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+.about {
+    height: 100%;
+}
+.services {
+    height: 100%;
+}
+.callout {
+    /*background: url(../img/bg__.jpg);*/
+    /*background: url(../img/bg-flake.jpg); */
+    background: url(../img/bg-1.jpg);
+}
+.portfolio {
+    height: 100%;
+    /*background: url(../img/bg-1.jpg);*/
+}
